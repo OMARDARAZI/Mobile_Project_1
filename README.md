@@ -2,9 +2,9 @@
 
 Uni Project Pet Adoption 
 
-# Project Name
+# Petty
 
-Description of your project.
+This is an App Where you can find you perfect pet and adopt it.
 
 ## Onboarding Screens
 
