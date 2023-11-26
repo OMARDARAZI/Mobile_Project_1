@@ -90,7 +90,6 @@ class LoginPage extends StatelessWidget {
                                   const SizedBox(
                                     height: 10,
                                   ),
-
                                 ],
                               ),
                             ),
@@ -134,7 +133,10 @@ class LoginPage extends StatelessWidget {
                           Row(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              const Text('Don\'t Have an Account?',style: TextStyle(color: Colors.white),),
+                              const Text(
+                                'Don\'t Have an Account?',
+                                style: TextStyle(color: Colors.white),
+                              ),
                               const SizedBox(
                                 width: 5,
                               ),
