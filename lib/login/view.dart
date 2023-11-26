@@ -90,18 +90,7 @@ class LoginPage extends StatelessWidget {
                                   const SizedBox(
                                     height: 10,
                                   ),
-                                  Row(
-                                    mainAxisAlignment: MainAxisAlignment.end,
-                                    children: [
-                                      GestureDetector(
-                                        onTap: () {},
-                                        child: const Text(
-                                          'Forgot Password?',
-                                          style: TextStyle(color: Colors.red),
-                                        ),
-                                      )
-                                    ],
-                                  )
+
                                 ],
                               ),
                             ),
